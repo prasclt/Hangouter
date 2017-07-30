@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HangOuter</string>
+
+    <string name="google_maps_key">AIzaSyBieXN6cofyFw8ScHzb3tEvBIQANELoa70</string>
+    <string name="zomato_key">59f30e06069b0b578362b7005520d27f</string>
+    <string name="search_poi">Search</string>
+    <string name="bottom_sheet_sample">No results</string>
+</resources>
